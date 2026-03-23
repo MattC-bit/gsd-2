@@ -240,24 +240,24 @@ This document is the entry point for the GSD-2 Harness Decomposition Pack. Subse
 | Document | Slice | Purpose |
 |----------|-------|---------|
 | [EVIDENCE_METHOD.md](./EVIDENCE_METHOD.md) | S01 | Methodological contract for evidence labeling |
-| GSD2_RUNTIME_ARCHITECTURE.md | S02 | Session/runtime assembly, lifecycle, event flow, persistence |
-| GSD2_ORCHESTRATION_LAYER.md | S03 | Dispatch, auto-mode control, phases, verification, guards |
-| GSD2_CONTEXT_ENGINEERING_MODEL.md | S04 | Prompt assembly, `.gsd/` workflow-state model |
-| GSD2_GIT_AND_ISOLATION_MODEL.md | S05 | Worktree isolation, recovery, execution boundaries |
-| GSD2_COMPARATIVE_ANALYSIS.md | S06 | Structural comparison with Claude Code, Codex, ACP |
-| GLOSSARY_NORMALIZED_TERMS.md | S07 | GSD-native terms with Atlas crosswalks |
-| EMERGING_AGENT_HARNESS_MODEL.md | S07 | Rebuild/wrap/delegate synthesis for Atlas harness |
+| [GSD2_RUNTIME_ARCHITECTURE.md](./GSD2_RUNTIME_ARCHITECTURE.md) | S02 | Session/runtime assembly, lifecycle, event flow, persistence |
+| [GSD2_ORCHESTRATION_LAYER.md](./GSD2_ORCHESTRATION_LAYER.md) | S03 | Dispatch, auto-mode control, phases, verification, guards |
+| [GSD2_CONTEXT_ENGINEERING_MODEL.md](./GSD2_CONTEXT_ENGINEERING_MODEL.md) | S04 | Prompt assembly, `.gsd/` workflow-state model |
+| [GSD2_GIT_AND_ISOLATION_MODEL.md](./GSD2_GIT_AND_ISOLATION_MODEL.md) | S05 | Worktree isolation, recovery, execution boundaries |
+| [GSD2_COMPARATIVE_ANALYSIS.md](./GSD2_COMPARATIVE_ANALYSIS.md) | S06 | Structural comparison with Claude Code, Codex, ACP |
+| [GLOSSARY_NORMALIZED_TERMS.md](./GLOSSARY_NORMALIZED_TERMS.md) | S07 | GSD-native terms with Atlas crosswalks |
+| [EMERGING_AGENT_HARNESS_MODEL.md](./EMERGING_AGENT_HARNESS_MODEL.md) | S07 | Rebuild/wrap/delegate synthesis for Atlas harness |
 
 The reading order for maximum comprehension:
-1. This document (GSD2_SYSTEM_OVERVIEW.md)
-2. EVIDENCE_METHOD.md
-3. GSD2_RUNTIME_ARCHITECTURE.md
-4. GSD2_ORCHESTRATION_LAYER.md
-5. GSD2_CONTEXT_ENGINEERING_MODEL.md
-6. GSD2_GIT_AND_ISOLATION_MODEL.md
-7. GSD2_COMPARATIVE_ANALYSIS.md
-8. GLOSSARY_NORMALIZED_TERMS.md
-9. EMERGING_AGENT_HARNESS_MODEL.md
+1. This document ([GSD2_SYSTEM_OVERVIEW.md](./GSD2_SYSTEM_OVERVIEW.md))
+2. [EVIDENCE_METHOD.md](./EVIDENCE_METHOD.md)
+3. [GSD2_RUNTIME_ARCHITECTURE.md](./GSD2_RUNTIME_ARCHITECTURE.md)
+4. [GSD2_ORCHESTRATION_LAYER.md](./GSD2_ORCHESTRATION_LAYER.md)
+5. [GSD2_CONTEXT_ENGINEERING_MODEL.md](./GSD2_CONTEXT_ENGINEERING_MODEL.md)
+6. [GSD2_GIT_AND_ISOLATION_MODEL.md](./GSD2_GIT_AND_ISOLATION_MODEL.md)
+7. [GSD2_COMPARATIVE_ANALYSIS.md](./GSD2_COMPARATIVE_ANALYSIS.md)
+8. [GLOSSARY_NORMALIZED_TERMS.md](./GLOSSARY_NORMALIZED_TERMS.md)
+9. [EMERGING_AGENT_HARNESS_MODEL.md](./EMERGING_AGENT_HARNESS_MODEL.md)
 
 ---
 
